@@ -1,8 +1,8 @@
 {
-  "ФИО":"Dmitriy Nevedomyi",
-  "Возраст":35,
-  "Количество домашних животных":2,
-  "Будущая желаемая зарплата": 100000
+  "FullName":"Dmitriy Nevedomyi",
+  "age":35,
+  "numberofpat":2,
+  "FutureDesiredSalary":100000
 }
 
 
